@@ -1,6 +1,6 @@
 === WP Plugin Mailtrap ===
 Contributors: Julian Bianqui
-Tags: Wordpress, Plugins, WPScan.
+Tags: Wordpress, Plugins, Mailtrap.
 Requires at least: 5.9
 Tested up to: 6.0
 
