@@ -1,16 +1,16 @@
-=== BDC WP Plugin Scanner ===
+=== WP Plugin Mailtrap ===
 Contributors: Julian Bianqui
 Tags: Wordpress, Plugins, WPScan.
 Requires at least: 5.9
 Tested up to: 6.0
 
-WP Plugin Scanner for bgmp WordPress sites.
+WP Plugin Mailtrap for WordPress sites.
 
 == Description ==
 
-Custom WP Plugin Scanner plugin for bgmp WordPress sites.
+Custom WP Plugin Mailtrap plugin for WordPress sites.
 
 == Changelog ==
 
 = 0.1 =
-* First release of BDC WP Plugin Scanner Custom Plugin
+* First release of BDC WP Plugin Mailtrap Custom Plugin
